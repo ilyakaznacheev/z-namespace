@@ -2,7 +2,7 @@
 
 Первый русскоязычный подкаст про разработку промышленного ПО, SAP, ABAP, и прочие грозные аббревиатуры.
 
-<p align="center"><img src="znamespace.png"></p>
+![Project Logo](/logo.png)
 
 ## Авторы
 

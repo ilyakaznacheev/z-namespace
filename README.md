@@ -14,6 +14,7 @@
 
 - [Telegram](https://t.me/z_namespace)
 - [Castbox](https://castbox.fm/channel/id2658981)
+- [Apple Podcasts](https://podcasts.apple.com/ru/podcast/z-namespace/id1501041559)
 
 ## Эпизоды
 

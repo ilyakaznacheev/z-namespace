@@ -13,10 +13,10 @@
 ## Подкаст доступен на следующих площадках:
 
 - [Telegram](https://t.me/z_namespace)
-- [Castbox](https://castbox.fm/channel/id2658981)
-- [Apple](https://podcasts.apple.com/ru/podcast/z-namespace/id1501041559)
-- [Yandex](https://music.yandex.ru/album/10122818)
-- [Google](https://podcasts.google.com/?feed=aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvYTE1NTY5OWFmZmYxNDAzODkzYjIzZmNmOTM5ZmM1YTAueG1s&ved=0CAAQ4aUDahcKEwiQu4_iupDoAhUAAAAAHQAAAAAQDg)
+- [Castbox](http://bit.ly/z-namespace-castbox)
+- [Apple](http://bit.ly/z-namespace-apple)
+- [Yandex](http://bit.ly/z-namespace-yandex)
+- [Google](http://bit.ly/z-namespace-google)
 
 ## Эпизоды
 

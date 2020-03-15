@@ -17,10 +17,13 @@
 - [Apple](http://bit.ly/z-namespace-apple)
 - [Yandex](http://bit.ly/z-namespace-yandex)
 - [Google](http://bit.ly/z-namespace-google)
+- [Overcast](http://bit.ly/z-namespace-overcast)
+- [RSS](http://bit.ly/z-namespace-rss)
 
 ## Эпизоды
 
-1. [Про архитекторов, SAP DX, собеседования и исключения](https://castbox.fm/episode/Z-namespace-1-id2658981-id235788244)
+1. [Архитекторы, SAP DX, собеседования и исключения](https://castbox.fm/episode/Z-namespace-1-id2658981-id235788244)
+2. [Тестирование, сложность и стиль кода, обмен знаниями и выступления](https://castbox.fm/episode/2---тестирование%2C-сложность-и-стиль-кода%2C-обмен-знаниями-и-выступления-id2658981-id240366868)
 
 ## Обратная связь
 

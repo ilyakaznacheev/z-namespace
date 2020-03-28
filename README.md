@@ -17,6 +17,7 @@
 - [Apple](http://bit.ly/z-namespace-apple)
 - [Yandex](http://bit.ly/z-namespace-yandex)
 - [Google](http://bit.ly/z-namespace-google)
+- [Spotify](spoti.fi/z-namespace-spotify)
 - [Overcast](http://bit.ly/z-namespace-overcast)
 - [RSS](http://bit.ly/z-namespace-rss)
 

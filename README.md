@@ -22,7 +22,6 @@
 - [PodLink](http://bit.ly/z-namespace-podlink)
 - [Breaker](http://bit.ly/z-namespace-breaker)
 - [RSS](http://bit.ly/z-namespace-rss)
-- [Chat](https://t.me/z_chatspace)
 
 ## Эпизоды
 

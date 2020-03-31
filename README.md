@@ -21,6 +21,7 @@
 - [Overcast](http://bit.ly/z-namespace-overcast)
 - [PodLink](http://bit.ly/z-namespace-podlink)
 - [Breaker](http://bit.ly/z-namespace-breaker)
+- [RadioPublic](http://bit.ly/z-namespace-radiopublic)
 - [RSS](http://bit.ly/z-namespace-rss)
 
 ## Эпизоды

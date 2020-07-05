@@ -32,6 +32,7 @@
 4. [Где брать знания, как проводить кодревью и документация как код](https://castbox.fm/episode/4---где-брать-знания%2C-как-проводить-кодревью-и-документация-как-код-id2658981-id250382304)
 5. [Machine Learning в SAP](https://castbox.fm/episode/5---Machine-Learning-%D0%B2-SAP-id2658981-id255650053)
 6. [Аджайл и CI/CD](https://castbox.fm/episode/6---%D0%B0%D0%B4%D0%B6%D0%B0%D0%B9%D0%BB-%D0%B8-CICD-%D0%B2-SAP-id2658981-id261844014)
+7. [Функциональное программирование и ABAP](https://castbox.fm/episode/7---функциональное-программирование-и-ABAP-id2658981-id283628756)
 
 ## Обратная связь
 

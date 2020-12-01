@@ -35,7 +35,7 @@
 7. [Функциональное программирование и ABAP](https://castbox.fm/episode/7---функциональное-программирование-и-ABAP-id2658981-id283628756)
 8. [Рекрутинг, собеседования и зарплаты](https://castbox.fm/episode/8---рекрутинг%2C-собеседования-и-зарплаты-id2658981-id297863454)
 9. [Прошлое и будущее ABAP](https://castbox.fm/episode/id2658981-id316901089)
-10. [1C и SAP](https://castbox.fm/episode/id2658981-id319256006) [Видеоверсия](https://youtu.be/yt_M2RvzH5w)
+10. [1C и SAP](https://castbox.fm/episode/id2658981-id319256006) | [Видеоверсия](https://youtu.be/yt_M2RvzH5w)
 
 ## Обратная связь
 
